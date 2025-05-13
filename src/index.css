@@ -98,10 +98,9 @@
 
 @layer components {
   .leaf-bg {
-    background-image: url("https://image.tuasaude.com/media/article/yi/wb/natural-diuretics_37666.jpg?width=468&height=312");
+    background-image: url("https://image.tuasaude.com/media/article/yi/wb/natural-diuretics_37666.jpg");
     background-position: center;
     background-size: 100px;
     background-attachment: fixed;
-    background-blend-mode: soft-light;
-  }
+     }
 }
